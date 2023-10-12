@@ -1,0 +1,41 @@
+[
+  {
+    "Package": "com.test.test",
+    "AdminName": "demoisu",
+    "AppCode": "testlive000",
+    "AppName": "Test",
+    "CreatedBy": "demoisu",
+    "MainApp": "com.test.test",
+    "UniqueId": "1.0.1",
+    "VersionName": "0.0.1",
+    "BetaTesting":{
+      "Admins": [],
+      "Users": []
+    },
+    "Onboard": {
+      "Aadhaar": {
+        "Available": true,
+        "Sequence": "2",
+        "Skip": false
+      },
+      "BasicInfo": {
+        "Available": true,
+        "Skip": false
+      },
+      "Email": {
+        "Available": true,
+        "Skip": true
+      },
+      "Mobile": {
+        "Available": true,
+        "Skip": false
+      },
+      "Pan": {
+        "Available": true,
+        "Sequence": "1",
+        "Skip": false
+      },
+      "ShowOnBoard": "0"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+
+[
+  {
+    "Package": "com.paywizedmt.paywizedmt",
+    "AdminName": "paywizew531",
+    "AepsDriverActivityUpdate":"0",
+    "AppCode": "paywizedmtlive000",
+    "AppName": "Paywize - DMT",
+    "CreatedBy": "paywizew531",
+    "CustomTheme": "#00C3D7",
+    "MainApp": "com.paywizedmt.paywizedmt",
+    "UniqueId": "1.0.1",
+    "VersionName": "0.0.1"
+  }
+]
